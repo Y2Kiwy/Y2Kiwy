@@ -1,4 +1,5 @@
 ## Hi there 👋
+Currently enrolled at ITS ICT Academy in Rome
 
 <!--
 **Y2Kiwy/Y2Kiwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
